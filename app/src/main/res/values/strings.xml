@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntroSlider</string>
+
+    <string name="next">İLERİ</string>
+    <string name="skip">GERİ</string>
+    <string name="start">HAYDİ BAŞLAYALIM!</string>
+
+</resources>
